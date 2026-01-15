@@ -44,3 +44,7 @@ It contains labeled messages classified as spam or ham.
 
 ## Conclusion
 The model provides good accuracy and can successfully detect spam messages.
+
+##OUTPUT
+<img width="410" height="612" alt="image" src="https://github.com/user-attachments/assets/68f85cd5-7663-4d19-ac26-5a7814e526a5" />
+
